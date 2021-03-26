@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lamaresouley/static/css/main.5cedc942.chunk.css",
-    "main.js": "/lamaresouley/static/js/main.bdd00aeb.chunk.js",
-    "main.js.map": "/lamaresouley/static/js/main.bdd00aeb.chunk.js.map",
+    "main.js": "/lamaresouley/static/js/main.ff6a29bd.chunk.js",
+    "main.js.map": "/lamaresouley/static/js/main.ff6a29bd.chunk.js.map",
     "runtime-main.js": "/lamaresouley/static/js/runtime-main.65ab3ff6.js",
     "runtime-main.js.map": "/lamaresouley/static/js/runtime-main.65ab3ff6.js.map",
     "static/css/2.c169ce9c.chunk.css": "/lamaresouley/static/css/2.c169ce9c.chunk.css",
@@ -38,6 +38,6 @@
     "static/css/2.c169ce9c.chunk.css",
     "static/js/2.e2711f02.chunk.js",
     "static/css/main.5cedc942.chunk.css",
-    "static/js/main.bdd00aeb.chunk.js"
+    "static/js/main.ff6a29bd.chunk.js"
   ]
 }

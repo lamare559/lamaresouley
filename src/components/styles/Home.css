@@ -1,0 +1,39 @@
+.home__header {
+  color: #3d3488;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.home__subheader {
+  color: #3d3488;
+  font-size: 1rem;
+}
+
+.home__description {
+  color: #535353;
+  font-size: 0.95rem;
+}
+
+.home__major,
+.home__others {
+  color: #3d3488;
+  font-weight: bolder;
+  font-size: 1rem;
+}
+
+.logos {
+  height: 2rem;
+}
+
+.buttons {
+  background-color: #3d3488 !important;
+  border: none !important;
+  width: 10rem;
+  height: 3rem;
+}
+
+.button-link,
+.button-link:hover {
+  color: #fff;
+  text-decoration: none;
+}

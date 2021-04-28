@@ -1,0 +1,27 @@
+.experience__title {
+  color: #3d3488;
+  font-weight: bold;
+}
+
+.experience__company {
+  color: #3d3488;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.experience__date {
+  color: #535353;
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+.experience__job {
+  color: #3d3488;
+  font-size: 0.95rem;
+  font-weight: normal;
+}
+
+.experience__description {
+  color: #535353;
+  font-size: 0.85rem;
+}

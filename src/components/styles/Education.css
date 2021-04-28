@@ -1,0 +1,27 @@
+.education__title {
+  color: #3d3488;
+  font-weight: bold;
+}
+
+.education__school {
+  color: #3d3488;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+.education__date {
+  color: #535353;
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+.education__job {
+  color: #3d3488;
+  font-size: 0.95rem;
+  font-weight: normal;
+}
+
+.education__description {
+  color: #535353;
+  font-size: 0.85rem;
+}
